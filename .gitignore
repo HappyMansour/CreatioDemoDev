@@ -1,0 +1,10 @@
+*
+!UsrYacht
+!UsrYacht/**
+!.gitignore
+
+.vs
+Release
+Debug
+Obj
+[Bb]in
