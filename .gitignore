@@ -1,5 +1,7 @@
 *
-
+!UsrYacht
+!UsrYacht/**
+!.gitignore
 
 .vs
 Release
