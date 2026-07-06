@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "4a3fc888-c048-bea0-b565-675f03967756",
+    "Name": "Example",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1783325744000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
